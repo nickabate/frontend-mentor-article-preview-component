@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor]()
-- Live Site URL: [View on Vercel]()
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component---nextjstailwindtypescript-_OyGYTmoG2)
+- Live Site URL: [View on Vercel](https://frontend-mentor-article-preview-component-nick-abate.vercel.app/)
 
 ## My process
 
