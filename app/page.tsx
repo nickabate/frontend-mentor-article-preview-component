@@ -75,7 +75,7 @@ export default function Home() {
 										</div>
 									</div>
 								</div>
-								<div className="absolute rotate-45 lg:-top-3 lg:right-10 bg-primary-10 h-4 w-4" />
+								<div className="sm:hidden lg:block absolute rotate-45 lg:-top-3 lg:right-10 bg-primary-10 h-4 w-4" />
 							</>
 						)}
 						<div className="flex flex-row gap-4">
